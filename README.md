@@ -5,9 +5,9 @@
 
 ### The application uses recent glucose values along with contextual inputs such as carbohydrate intake, insulin dosage, and step count to estimate glucose levels in the next hour.
 
-## Key Features
-### • Log glucose readings and related health inputs
-### • Predict glucose levels one hour ahead
-### • Visualize recent glucose trends
-### • Download glucose history logs
-### • Interactive dashboard built with Streamlit
+### Key Features
+• Log glucose readings and related health inputs
+• Predict glucose levels one hour ahead
+• Visualize recent glucose trends
+• Download glucose history logs
+• Interactive dashboard built with Streamlit
